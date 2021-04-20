@@ -2,7 +2,7 @@
 #### Josiah Leas & [PrettySights](http://prettysights.com)
 
 
-- [https://amisdex.github.io/multicoincharts/?chart=HONEYSWAP:AMISUSDC&chart=HONEYSWAP:AMISWXDAI&chart=HONEYSWAP:WBTCAMIS&chart=HONEYSWAP:RENBTCAMIS](https://amisdex.github.io/multicoincharts/?chart=HONEYSWAP:AMISUSDC&chart=HONEYSWAP:AMISWXDAI&chart=HONEYSWAP:WBTCAMIS&chart=HONEYSWAP:RENBTCAMIS)
+- [https://amisdex.github.io/multicoincharts/?chart=HONEYSWAP:AMISUSDC&chart=HONEYSWAP:AMISWXDAI&chart=HONEYSWAP:WBTCAMIS&chart=HONEYSWAP:RENBTCAMIS&chart=HONEYSWAP:STAKEAMIS&chart=HONEYSWAP:HNYAMIS](https://amisdex.github.io/multicoincharts/?chart=HONEYSWAP:AMISUSDC&chart=HONEYSWAP:AMISWXDAI&chart=HONEYSWAP:WBTCAMIS&chart=HONEYSWAP:RENBTCAMIS&chart=HONEYSWAP:STAKEAMIS&chart=HONEYSWAP:HNYAMIS)
 
 - [https://amisdex.github.io/multicoincharts/main.html?chart=OANDA:NAS100USD&chart=OANDA:XAUUSD&chart=OANDA:EURUSD&chart=COINBASE:BTCUSD](https://amisdex.github.io/multicoincharts/main.html?chart=OANDA:NAS100USD&chart=OANDA:XAUUSD&chart=OANDA:EURUSD&chart=COINBASE:BTCUSD)
 
